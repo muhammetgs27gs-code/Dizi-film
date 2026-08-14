@@ -2,7 +2,7 @@
   "name": "Bobin — Film & Dizi Arşivi",
   "short_name": "Bobin",
   "description": "Film ve dizi izleme listeni takip et, keşfet, arşivle.",
-  "start_url": "./bobin.html",
+  "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait-primary",
