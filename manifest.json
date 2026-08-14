@@ -9,6 +9,7 @@
   "background_color": "#0e0b09",
   "theme_color": "#d4a24e",
   "lang": "tr",
+  "dir": "ltr",
   "icons": [
     {
       "src": "icon-192.png",
